@@ -1,0 +1,51 @@
+body {
+  background-color: lightblue;
+}
+
+#pageWrapper {
+  width: 80%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: lightcoral;
+  height: 600px;
+}
+
+#navBar {
+  background-color: lightgoldenrodyellow;
+  padding: 0px;
+}
+
+
+.content {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+#main {
+  width: 70%;
+  background-color: lightgreen;
+}
+
+#sideBar {
+
+  background-color: blueviolet;
+  height: 300px;
+}
+
+#footer {
+  background-color: brown;
+  /* padding: 20px; */
+}
+
+.insideNavBar {
+  padding: 0px;
+  margin: 0px;
+}
+
+.insideFooter {
+  padding: 0px;
+  margin: 0px;
+}
